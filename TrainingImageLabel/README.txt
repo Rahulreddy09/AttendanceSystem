@@ -1,3 +1,5 @@
+Extract Trainner.rar, you'll get a yaml file.
+
 This file was provided by: https://www.dll-files.com/
 
 If you downloaded it from somewhere else, please let us know: info@dll-files.com
